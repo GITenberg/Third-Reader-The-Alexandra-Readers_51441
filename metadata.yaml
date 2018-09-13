@@ -1,5 +1,8 @@
 _repo: Third-Reader-The-Alexandra-Readers_51441
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51441-h/images/cover.jpg
 creator:
   authors:
   - agent_name: McIntyre, W. A. (William Albert)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '46414'
     url: http://www.gutenberg.org/2009/agents/46414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51441#Third-Reader-The-Alexandra-Readers
 gutenberg_issued: '2016-03-14'
 gutenberg_type: Text
 identifiers:
