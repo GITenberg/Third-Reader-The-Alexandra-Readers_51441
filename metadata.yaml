@@ -1,0 +1,35 @@
+_repo: Third-Reader-The-Alexandra-Readers_51441
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: McIntyre, W. A. (William Albert)
+    alias: McIntyre, William Albert
+    birthdate: 1866
+    gutenberg_agent_id: '46412'
+    url: http://www.gutenberg.org/2009/agents/46412
+  - agent_name: Dearness, John
+    birthdate: 1852
+    gutenberg_agent_id: '46413'
+    url: http://www.gutenberg.org/2009/agents/46413
+  - agent_name: Saul, John C. (John Cameron)
+    alias: Saul, John Cameron
+    birthdate: 1869
+    deathdate: 1939
+    gutenberg_agent_id: '46414'
+    url: http://www.gutenberg.org/2009/agents/46414
+description: ''
+gutenberg_issued: '2016-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers (Primary)'
+- !lcsh 'Readers (Elementary)'
+- GITenberg
+title: 'Third Reader: The Alexandra Readers'
+url: http://www.gutenberg.org/ebooks/51441
